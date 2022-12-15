@@ -1,0 +1,35 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(93, 7, 83);
+  padding-top: 15%;
+}
+.container {
+  text-align: center;
+}
+input {
+  text-align: center;
+}
+.textinput {
+  object-position: center;
+  width: 50em;
+  height: 5em;
+  border-radius: 50%;
+  border-color: blueviolet;
+  border-width: 5px;
+}
+button {
+  text-align: center;
+  margin-top: 20px;
+
+  border-color: blueviolet;
+  border-width: 3px;
+  background-color: white;
+  width: 10em;
+}
+#lists {
+  font-size: large;
+}
